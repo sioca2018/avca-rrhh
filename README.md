@@ -25,7 +25,7 @@ Esto pueden hacerlo abriendo el programa ***git bash*** y ubicandose en la ruta 
 2. Instala node.js siguiendo las instruccciones a continuacion [aquí](https://nodejs.org/en/download/package-manager/)
 3. Clona el repositorio
 ```
-$ git clone https://github.com/jersonmr/avca-rrhh
+$ git clone https://github.com/sioca2018/avca-rrhh
 ```
 4. Dirigete al directorio de trabajo
 ```
